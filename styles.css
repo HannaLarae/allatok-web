@@ -6,7 +6,7 @@ body {
 
 
 
-/*cím*/
+/*részek*/
 header {
 
     text-align: center;
@@ -15,7 +15,7 @@ header {
   
     
 }
-
+/*cím*/
 h1.a{
  
     font-variant: small-caps;
