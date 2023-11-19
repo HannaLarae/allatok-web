@@ -1,0 +1,64 @@
+body {
+    
+    background-color: #8bc4a1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+/*cím*/
+header {
+
+    text-align: center;
+    color: #466853;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+    
+}
+
+h1.a{
+ 
+    font-variant: small-caps;
+    font-size: 290%    ;
+   
+}
+
+li {
+   font-size: 100%;
+}
+
+p.a {
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+/*lista*/
+ul.a {
+    list-style-type: circle;
+  }
+
+
+
+/* másod címek*/
+
+h3.a {
+    color: rgb(40, 104, 82);
+    text-align: left;
+    text-decoration: underline;
+}
+
+
+
+/*kiegészítők*/
+.balra {
+    float: left;
+  margin: 0 10px 10px 10px;
+  text-align: left;
+ }
+ 
+ .jobbra {
+     float: right;
+     margin: 0 10px 10px 10px;
+     text-align: right;
+ }
