@@ -5,31 +5,22 @@ body {
 }
 
 
-
-/*részek*/
-header {
-
-    text-align: center;
-    color: #466853;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  
-    
-}
 /*cím*/
 h1.a{
  
     font-variant: small-caps;
     font-size: 290%    ;
-   
+    
 }
 
 li {
    font-size: 100%;
+   
 }
 
 p.a {
 font-weight: bold;
-text-decoration: underline;
+
 
 }
 
@@ -42,6 +33,12 @@ ul.a {
 
 /* másod címek*/
 
+img.a {
+    
+    float:right;
+    }
+
+
 h3.a {
     color: rgb(40, 104, 82);
     text-align: left;
@@ -51,14 +48,20 @@ h3.a {
 
 
 /*kiegészítők*/
-.balra {
-    float: left;
-  margin: 0 10px 10px 10px;
-  text-align: left;
- }
- 
- .jobbra {
-     float: right;
-     margin: 0 10px 10px 10px;
-     text-align: right;
- }
+
+
+
+ /*részek*/
+header {
+
+    text-align: center;
+    color: #466853;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+    
+}
+
+footer {
+     font-family: 'Times New Roman', Times, serif;
+
+}
