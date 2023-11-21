@@ -1,67 +1,67 @@
 body {
-    
-    background-color: #8bc4a1;
+
+    background-color: #6f7e74;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
-/*cím*/
-h1.a{
- 
-    font-variant: small-caps;
-    font-size: 290%    ;
-    
-}
 
 li {
-   font-size: 100%;
-   
+    font-size: 100%;
+
 }
 
 p.a {
-font-weight: bold;
-
-
+    font-weight: bold;
+    text-decoration: double;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
 }
 
 /*lista*/
 ul.a {
     list-style-type: circle;
-  }
+
+}
 
 
 
 /* másod címek*/
 
 img.a {
-    
-    float:right;
-    }
+    float: right;
+}
 
 
 h3.a {
-    color: rgb(40, 104, 82);
+    color: rgb(16, 41, 32);
     text-align: left;
     text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+
 
 
 
 /*kiegészítők*/
 
+.container {
+    background-color: #95ad9e;
+}
 
-
- /*részek*/
+/*részek*/
 header {
 
     text-align: center;
     color: #466853;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  
-    
+
+
 }
 
 footer {
-     font-family: 'Times New Roman', Times, serif;
-
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #383c44;
+    color: white;
 }
