@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(170, 167, 160);
+}
+
+h2{
+    color: rgb(19, 19, 53);
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #383c44;
+    color: white;
+}
