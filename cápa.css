@@ -12,3 +12,8 @@ h6 {
     color: lightcyan;
 }
 
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #383c44;
+    color: white;
+}
